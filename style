@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #222;
+  color: #fff;
+  margin: 0;
+  padding: 0;
+}
+
+#game-container {
+  width: 800px;
+  height: 600px;
+  margin: 20px auto;
+  border: 2px solid #fff;
+  background-color: #000;
+}
